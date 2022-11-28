@@ -6,3 +6,4 @@
 ![tick-blue](https://user-images.githubusercontent.com/119349955/204377843-764b97e3-cf4e-49ba-b272-767fcee9b938.png)
 
 ![user-blue](https://user-images.githubusercontent.com/119349955/204378105-6a7906f4-678a-422e-bde2-81bf68382b2b.png)
+![user-orange](https://user-images.githubusercontent.com/119349955/204378455-8ae2e82a-9d0b-41af-bfb0-d4c82d0e21ac.png)
